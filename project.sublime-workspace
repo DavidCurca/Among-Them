@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numKills"
+			],
+			[
+				"pal",
+				"play_button"
+			],
+			[
+				"set",
+				"setXY"
+			],
+			[
+				"text",
+				"textSize"
+			],
+			[
+				"scre",
+				"screenSurface"
+			],
+			[
+				"time",
+				"timeStart"
+			],
+			[
+				"st",
+				"stime"
+			],
+			[
+				"map",
+				"mapY"
+			],
+			[
+				"ma",
+				"mapY"
+			],
+			[
+				"x",
+				"xoffset"
+			],
+			[
+				"bl",
+				"black_screen"
+			],
+			[
+				"d",
+				"directionX"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"dir",
+				"directionY"
+			],
+			[
+				"dire",
+				"directionX"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"ch",
+				"check_collision"
+			],
+			[
+				"SDL_RE",
+				"SDL_Rect"
+			],
+			[
+				"Pe",
+				"persons"
+			],
+			[
+				"dr",
+				"draw"
+			],
+			[
+				"draw_",
+				"draw_image"
+			],
+			[
+				"WI",
+				"WINDOW_WIDTH"
+			],
+			[
+				"re",
+				"renderer"
+			],
+			[
+				"WO",
+				"WINDOW_WIDTH"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"build_system": "Build Debug",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build Debug",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Debug",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/david/Desktop/Games/Test Game/index.js",
+		"/C/Users/david/Desktop/Games/Test Game/src/main.cpp",
+		"/C/Users/david/Desktop/Games/Among Them/among_them.sublime-project",
+		"/C/Users/david/Desktop/Games/Among Them/src/font",
+		"/C/Users/david/Desktop/Games/Among Them/src/main.cpp",
+		"/C/Users/david/Desktop/Games/Among Them/Among Them.sublime-project",
+		"/C/Users/david/Desktop/idk how to name this folder/del.cpp",
+		"/C/Users/david/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"){\n",
+			";\n",
+			"\");\n",
+			"draw_sidebar",
+			"next_time",
+			"  \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
